@@ -1,1 +1,1 @@
-# telegram-bot-daily-run
+# Telegram bot - "Daily run"
